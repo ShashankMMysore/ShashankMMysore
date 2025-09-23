@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/shashankmm12](https://www.datascienceportfol.io/shashankmm12)
 
-- 💬 Ask me about **Ask me about designing and optimizing SQL queries for large datasets, building interactive dashboards and reports in Power BI and Excel, applying Python for data analysis and automation, and translating complex business problems into data-driven insights and solutions.**
+- 💬 Ask me about designing and optimizing SQL queries for large datasets, building interactive dashboards and reports in Power BI and Excel, applying Python for data analysis and automation, and translating complex business problems into data-driven insights and solutions.**
 
 - 📫 How to reach me **shashankmysore77@gmail.com**
 
