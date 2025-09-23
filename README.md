@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Mysore</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🌱 I’m currently learning **I’m currently learning how to turn messy data into meaningful insights with advanced SQL, Python, and Power BI magic ✨📊**
+- 🌱 I’m currently learning how to turn messy data into meaningful insights with advanced SQL, Python, and Power BI magic ✨📊**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/shashankmm12](https://www.datascienceportfol.io/shashankmm12)
 
